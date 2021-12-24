@@ -1,0 +1,166 @@
+name: quranandsunnahapp
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 0.8.0+8
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  rxdart: ^0.26.0
+  cupertino_icons: ^1.0.2
+  intl: ^0.17.0
+  timer_builder: ^2.0.0
+  flutter_qiblah: ^2.0.0
+  flutter_svg: ^0.21.0-nullsafety.0
+  google_maps_flutter: ^2.0.1
+  geolocator: ^7.0.1
+  arabic_numbers: ^0.0.1
+  url_launcher: ^6.0.2
+  http: ^0.13.0
+  auto_size_text: ^2.1.0
+  html: ^0.15.0
+  flutter_downloader: ^1.6.0
+  audioplayers: ^0.18.3
+  flutter_isolate: ^2.0.0
+  flutter_bloc: ^7.0.0
+  bloc: ^7.0.0
+  equatable: ^2.0.0
+  path_provider: ^2.0.1
+  flutter_local_notifications: ^5.0.0+4
+  google_mobile_ads: ^0.13.3
+  provider: ^5.0.0
+  easy_localization: ^3.0.0
+  flutter_riverpod: ^0.14.0+3
+  shared_preferences: ^2.0.5
+  geocoder: ^0.2.1
+  flutter_native_timezone: ^1.0.10
+  flutter_slidable: ^0.6.0
+  share: ^2.0.1
+  sqflite: ^2.0.0+3
+
+  infinite_view_pager: ^1.0.0
+  percent_indicator: ^2.1.7+2
+  flutter_switch: ^0.3.1
+  toast: ^0.1.5
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/database/azkardb.db
+    - assets/
+    - assets/images/
+    - assets/azkar/
+    - assets/quran/ar/
+    - assets/quran/ar/tajweed/
+    - assets/quran/
+    - assets/images/facebookImage.png
+    - assets/images/email.jpeg
+    - assets/images/website.png
+    - assets/images/whatsapp.png
+    - assets/translations/ar-AR.json
+    - assets/translations/en-US.json
+    - assets/images/AR.png
+    - assets/images/EN.png
+    - assets/images/السجدة.png
+    - assets/quran.db
+    - assets/images/sobh.jpg
+    - assets/images/sogod.png
+    - assets/images/life.png
+    - assets/images/travel.png
+    - assets/images/kaba.png
+    - assets/images/mehn.png
+    - assets/images/eman.png
+    - assets/images/mard.jpg
+    - assets/images/duaa.png
+
+
+
+  fonts:
+    - family: UthmanicHafs1
+      fonts:
+      - asset: assets/fonts/UthmanicHafs1 Ver16.ttf
+        style: normal
+    - family: UthmanicWarsh1
+      fonts:
+      - asset: assets/fonts/UthmanicWarsh1 Ver09.ttf
+        style: normal
+    - family: UthmanicBazzi1
+      fonts:
+      - asset: assets/fonts/UthmanicBazzi1 Ver07.ttf
+        style: normal
+    - family: UthmanicDoori1
+      fonts:
+      - asset: assets/fonts/UthmanicDoori1 Ver09.ttf
+        style: normal
+    - family: UthmanicQalun1
+      fonts:
+      - asset: assets/fonts/UthmanicQalun1 Ver09.ttf
+        style: normal
+    - family: UthmanicQunbul1
+      fonts:
+      - asset: assets/fonts/UthmanicQunbul1 Ver07.ttf
+        style: normal
+    - family: UthmanicShubah1
+      fonts:
+      - asset: assets/fonts/UthmanicShubah1 Ver08.ttf
+        style: normal
+    - family: UthmanicSussi1
+      fonts:
+      - asset: assets/fonts/UthmanicSussi1 Ver09.ttf
+        style: normal
+
+    - family: Amiri
+      fonts:
+      - asset: assets/fonts/Amiri-Bold.ttf
+        weight: 700
+      - asset: assets/fonts/Amiri-Bolditalic.ttf
+        style: italic
+        weight: 600
+      - asset: assets/fonts/Amiri-Regular.ttf
+        style: normal
+      - asset: assets/fonts/Amiri-Italic.ttf
+        style: italic
+    - family: Scheherazade
+      fonts:
+      - asset: assets/fonts/Scheherazade-Bold.ttf
+        weight: 700
+      - asset: assets/fonts/Scheherazade-Regular.ttf
+        style: normal
+    - family: dotty
+      fonts:
+      - asset: assets/fonts/dotty.ttf
+        style: normal
+    - family: me_quran
+      fonts:
+      - asset: assets/fonts/me_quran_volt_newmet.ttf
+        style: normal
+    - family: noorehidayat
+      fonts:
+      - asset: assets/fonts/noorehidayat.ttf
+        style: normal
+    - family: QuranSurahNamesFont
+      fonts:
+      - asset: assets/fonts/Quran karim 114.ttf
+        style: normal
+    - family: THULUTH
+      fonts:
+      - asset: assets/fonts/A Thuluth Regular.ttf
+        style: normal
+
+
+
+
+

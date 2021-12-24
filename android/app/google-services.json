@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619491544965",
+    "project_id": "quranandsunnah-dee01",
+    "storage_bucket": "quranandsunnah-dee01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619491544965:android:0db8162aeb1cbabbcafeec",
+        "android_client_info": {
+          "package_name": "com.fastworld.quranandsunnahapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619491544965-9rois5t245dd02vii58qb4citq3uunu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1iQq91zLK1xvLrEqG37tzktQJ64lvQ4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619491544965-9rois5t245dd02vii58qb4citq3uunu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

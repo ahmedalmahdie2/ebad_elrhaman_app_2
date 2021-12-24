@@ -1,0 +1,4 @@
+#Sat Aug 28 00:07:24 EET 2021
+base.0=/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

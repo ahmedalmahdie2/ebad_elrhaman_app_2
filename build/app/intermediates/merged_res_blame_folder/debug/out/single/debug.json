@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/build/app/intermediates/res/merged/debug/raw_keep.xml.flat",
+        "source": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/android/app/src/main/res/raw/keep.xml"
+    },
+    {
+        "merged": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/build/app/intermediates/res/merged/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/build/app/intermediates/res/merged/debug/raw_azan.mp3.flat",
+        "source": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/android/app/src/main/res/raw/azan.mp3"
+    },
+    {
+        "merged": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ahmedalmahdie/Desktop/Workspace/FlutterWorkspace/FastWorld/ebad_elrahman_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
